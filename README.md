@@ -1,8 +1,8 @@
 # weather_app
-Overview
+**Overview: **
 Welcome to Weather Report App, a cutting-edge and user-friendly weather prediction app. This not only provides accurate weather forecasts but also offers an engaging and intuitive user experience.
 
-Features:
+**Features:**
 Responsive Design: Enjoy a seamless experience across various devices with WeatherVista's responsive UI.
 Dynamic Weather Icons: Visualize real-time weather conditions with dynamic icons for a more immersive experience.
 Hourly and Weekly Forecasts: Plan your schedule confidently with detailed hourly and weekly forecasts.
